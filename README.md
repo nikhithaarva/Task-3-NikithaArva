@@ -17,4 +17,4 @@ A Java-based ATM simulation project that allows users to perform banking operati
 - Switch Statements
 
 ## Author
-Nikhitha Arva
+Nikitha Arva
